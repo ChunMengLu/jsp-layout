@@ -5,7 +5,7 @@
 
 ## 使用说明
 ###_layout.jsp
-```jsp
+```html
 <%@ page language="java" session="false" contentType="text/html;charset=UTF-8" isELIgnored="false"%>
 <%@ page trimDirectiveWhitespaces="true" %>
 <%@ taglib prefix="layout" uri="http://www.dreamlu.net/tags/jsp-layout.tld" %>
@@ -25,7 +25,7 @@
 </html>
 ```
 ###index.jsp
-```jsp
+```html
 <%@ page language="java" session="false" contentType="text/html;charset=UTF-8" isELIgnored="false"%>
 <%@ page trimDirectiveWhitespaces="true" %>
 <%@ taglib prefix="layout" uri="http://www.dreamlu.net/tags/jsp-layout.tld" %>

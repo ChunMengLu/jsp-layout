@@ -4,6 +4,15 @@
 为了自己和小伙伴使用方便而提交到git和maven！
 
 ## 使用说明
+###maven
+```xml
+<dependency>
+	<groupId>net.dreamlu</groupId>
+	<artifactId>jsp-layout</artifactId>
+	<version>0.0.1</version>
+</dependency>
+```
+
 ###_layout.jsp
 ```html
 <%@ page language="java" session="false" contentType="text/html;charset=UTF-8" isELIgnored="false"%>
